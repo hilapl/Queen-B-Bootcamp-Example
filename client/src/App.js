@@ -14,6 +14,7 @@ function App() {
 
   return (
     <div className="App">
+        <h1>The Best App</h1>
       <h1>{message}</h1>
       <img src={firstPerson} alt="person1" />
     </div>
